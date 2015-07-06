@@ -1,0 +1,23 @@
+h1{
+	font-family: sans-serif;
+}
+.reblock{
+	float:right;
+	background-color: red;
+}
+.block{
+
+	
+	
+	height:60px;
+	width:60px;
+	float:right;
+	/*background-color: red;
+	/*display:inline-block;*/
+}
+#wrapper{
+	border:solid black 1px;
+	margin-top: 50px;
+	height: 960px;
+	width: 960px;
+}
