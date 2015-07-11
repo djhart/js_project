@@ -1,22 +1,26 @@
 h1{
 	font-family: sans-serif;
+	background-color: white;
 }
+body{
+	background-color: #444444;
+}
+
 .reblock{
 	float:right;
 	background-color: red;
 }
+#checks{
+	display: inline-block;
+	clear:left;
+}
 .block{
-
-	
-	
 	height:60px;
 	width:60px;
 	float:right;
-	/*background-color: red;
-	/*display:inline-block;*/
 }
-#wrapper{
-	border:solid black 1px;
+#wrapper{	
+	background-color: white;
 	margin-top: 50px;
 	height: 960px;
 	width: 960px;
